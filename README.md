@@ -1,2 +1,2 @@
-# tp1-orga-datos-1c2018
-TP1 de Orga de  Datos
+# Trabajo práctico 1 de Organización de Datos: Análisis Exploratorio
+TP1 de Orga de Datos
