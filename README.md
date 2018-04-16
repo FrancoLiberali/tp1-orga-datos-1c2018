@@ -10,4 +10,5 @@ El objetivo es encontrar la respuesta a las siguientes preguntas:
  - ¿A cuántos avisos se postula la gente?
 
 [Link al notebook](https://github.com/sportelliluciano/tp1-orga-datos-1c2018/blob/master/AnalisisExploratorio.ipynb)
+
 [Link al set de datos](https://drive.google.com/file/d/1K4uRag5nmGtfuvzyJV9RL_73lzsh_iTO/view?usp=sharing)
